@@ -28,8 +28,8 @@ var voiceSettings = {
         paragraphBreak : 650
     },
     voice: {
-        name           : 'Salli',
-        language       : 'en-US',
+        name           : 'Raveena',
+        language       : 'en-IN',
         gender         : 'Female'
     }
 };
